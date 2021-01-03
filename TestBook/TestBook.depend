@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608543055 source:d:\norman chen\codeblockproject\testbook\book.cpp
+	"Book.h"
+	<string>
+
+1608543116 d:\norman chen\codeblockproject\testbook\book.h
+	<string>
+
+1608542333 source:d:\norman chen\codeblockproject\testbook\main.cpp
+	<iostream>
+	"Book.h"
+
